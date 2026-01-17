@@ -3,7 +3,7 @@
 **Android Developer** | Москва, Russia
 
 [English](#english-version) | [Русский](#русская-версия)
----
+
 ---
 
 <a id="english-version"></a>
