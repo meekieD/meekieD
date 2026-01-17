@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Mihail | Привет, я Михаил
 
 **Android Developer** | Москва, Russia
-
 ---
-
-## 🌐 Language / Язык
-- [English](#english-version) | [Русский](#русская-версия)
-
+[English](#english-version) | [Русский](#русская-версия)
 ---
 
 <a id="english-version"></a>
@@ -16,16 +12,15 @@ Backend Developer with 3 years of enterprise experience, now building Android ap
 
 **Contact:**  
 📧 Email: [mihaildusov@yandex.ru](mailto:mihaildusov@yandex.ru)  
-📱 Telegram: [@meekie](https://t.me/meekie)  
-💻 GitHub: [github.com/meekieD](https://github.com/meekieD)  
+📱 Telegram: [@meekie](https://t.me/meekie)
 
 ### 📱 Pet Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-7A1FA2?style=flat&logo=square&logoColor=white) ![Room](https://img.shields.io/badge/Room-4285F4?style=flat&logo=android&logoColor=white) |
-| [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Room](https://img.shields.io/badge/Room-4285F4?style=flat&logo=android&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat&logo=android&logoColor=white) |
-| [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture *(in development)* | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat) |
+| Project | Description |
+|---------|-------------|
+| [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture |
+| [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning |
+| [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture *(in development)*
 
 ### 🛠️ Tech Stack
 
@@ -35,6 +30,7 @@ Backend Developer with 3 years of enterprise experience, now building Android ap
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-7A1FA2?style=for-the-badge&logo=square&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 **Architecture & Patterns:**  
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
@@ -45,6 +41,7 @@ Backend Developer with 3 years of enterprise experience, now building Android ap
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
@@ -70,16 +67,15 @@ Backend-разработчик с 3-летним опытом работы в en
 
 **Контакты:**  
 📧 Email: [mihaildusov@yandex.ru](mailto:mihaildusov@yandex.ru)  
-📱 Telegram: [@meekie](https://t.me/meekie)  
-💻 GitHub: [github.com/meekieD](https://github.com/meekieD)  
+📱 Telegram: [@meekie](https://t.me/meekie)
 
 ### 📱 Pet-проекты
 
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-7A1FA2?style=flat&logo=square&logoColor=white) ![Room](https://img.shields.io/badge/Room-4285F4?style=flat&logo=android&logoColor=white) |
-| [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Room](https://img.shields.io/badge/Room-4285F4?style=flat&logo=android&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat&logo=android&logoColor=white) |
-| [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Трекер привычек с мультимодульной архитектурой *(в разработке)* | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat) |
+| Проект | Описание |
+|--------|----------|
+| [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой |
+| [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением |
+| [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой *(в разработке)*
 
 ### 🛠️ Технологический стек
 
@@ -89,6 +85,7 @@ Backend-разработчик с 3-летним опытом работы в en
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-7A1FA2?style=for-the-badge&logo=square&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 **Архитектура и паттерны:**  
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
@@ -99,6 +96,7 @@ Backend-разработчик с 3-летним опытом работы в en
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Статистика GitHub
