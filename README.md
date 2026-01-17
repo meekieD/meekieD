@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Mihail | Привет, я Михаил
 
 **Android Developer** | Москва, Russia
----
+
 [English](#english-version) | [Русский](#русская-версия)
+---
 ---
 
 <a id="english-version"></a>
@@ -43,12 +44,6 @@ Backend Developer with 3 years of enterprise experience, now building Android ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekieD&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 ---
 
@@ -98,12 +93,6 @@ Backend-разработчик с 3-летним опытом работы в en
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekieD&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 ---
 
