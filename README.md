@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Mihail | Привет, я Михаил
-
-**Android Developer** | Москва, Russia
+# 👋 Hi, I'm Mihail, Android Developer
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 [English](#english-version) | [Русский](#русская-версия)
 
