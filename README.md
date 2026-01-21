@@ -1,107 +1,190 @@
-# 👋 Hi, I'm Mihail, Android Developer
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
 
-[English](#english-version) | [Русский](#русская-версия)
+# 👋 Hi, I'm Mihail
+### Android Developer | Backend Engineer
+
+<a href="https://t.me/meekie"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+<a href="mailto:mihaildusov@yandex.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Email"></a>
+
+[English](#english-version) | [Русский](#russian-version)
+
+</div>
 
 ---
 
 <a id="english-version"></a>
+
 ## 🚀 About Me
 
-Backend Developer with 3 years of enterprise experience, now building Android applications with modern stack. I combine backend expertise in scalable systems and API design with Android development skills to create high-quality mobile apps.
+Backend Developer with **3 years of enterprise experience**, now specializing in **Android development** with modern tech stack. I combine deep backend expertise in scalable systems and API design with cutting-edge Android development skills to build robust, user-centric mobile applications.
 
-**Contact:**  
-📧 Email: [mihaildusov@yandex.ru](mailto:mihaildusov@yandex.ru)  
-📱 Telegram: [@meekie](https://t.me/meekie)
+### 📱 Projects
 
-### 📱 Pet Projects
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description |
-|---------|-------------|
-| [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture |
-| [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning |
-| [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture *(in development)*
+#### 📰 [News](https://github.com/meekieD/News)
+Modern news aggregator with **offline-first** architecture
 
-### 🛠️ Tech Stack
+**Tech:** Jetpack Compose • Room • Retrofit • Hilt • MVVM
 
-**Android Development:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-7A1FA2?style=for-the-badge&logo=square&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
+</td>
+<td width="50%">
 
-**Architecture & Patterns:**  
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-4285F4?style=for-the-badge&logo=kotlin&logoColor=white)
+#### 📝 [Notes](https://github.com/meekieD/Notes)
+Minimalist note-taking app with advanced search
 
-**Backend & Tools:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tech:** Compose • Room • Material Design 3
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🎯 Currently
-- 🔭 Building production-ready Android applications
-- 🌱 Mastering Jetpack Compose and modern architectural approaches
-- 💼 Looking for an Android Developer position in a product company
-- 📚 Learning: Multi-module architecture, Performance optimization, UI/UX best practices
+#### ✅ [Habit-ify](https://github.com/meekieD/Habit-ify)
+Habit tracker with **multi-module architecture** *(in development)*
+
+**Tech:** Multi-module • Clean Architecture • Compose
+
+</td>
+<td width="50%">
+
+#### 🎯 More Projects
+Check out [my repositories](https://github.com/meekieD?tab=repositories) for more!
+
+</td>
+</tr>
+</table>
 
 ---
 
-<a id="русская-версия"></a>
+## 🛠️ Tech Stack
+
+### Mobile Development
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+
+**Core:** Jetpack Compose, Material Design 3, Kotlin Coroutines & Flow  
+**Architecture:** MVVM, Clean Architecture, Multi-module  
+**DI & Data:** Hilt, Room, Retrofit, Coil
+
+### Backend & DevOps
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+
+**Frameworks:** Spring Boot  
+**Tools:** GitHub Actions • REST APIs
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+<div align="center">
+
+### 💬 Open to offers!
+
+**Actively looking for Android Developer positions!**  
+Feel free to reach out!
+
+<a href="https://t.me/meekie"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+<a href="mailto:mihaildusov@yandex.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Email"></a>
+
+⭐️ **If you find my projects interesting, consider leaving a star!** ⭐️
+
+</div>
+
+---
+---
+
+<a id="russian-version"></a>
+
+<div align="center">
+
+# 👋 Привет, я Михаил
+### Android-разработчик | Backend-инженер
+
+<a href="https://t.me/meekie"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+<a href="mailto:mihaildusov@yandex.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Email"></a>
+
+</div>
+
 ## 🚀 Обо мне
 
-Backend-разработчик с 3-летним опытом работы в коммерческих проектах, сейчас создаю Android-приложения с использованием современного стека технологий. Объединяю экспертизу в построении масштабируемых систем и проектировании API с навыками Android-разработки для создания качественных мобильных приложений.
+Backend-разработчик с **3-летним опытом** работы в коммерческих проектах, сейчас специализируюсь на **Android-разработке** с использованием современного стека технологий. Объединяю глубокую экспертизу в построении масштабируемых систем и проектировании API с передовыми навыками Android-разработки для создания надежных мобильных приложений.
 
-**Контакты:**  
-📧 Email: [mihaildusov@yandex.ru](mailto:mihaildusov@yandex.ru)  
-📱 Telegram: [@meekie](https://t.me/meekie)
+### 📱 Мои проекты
 
-### 📱 Pet-проекты
+<table>
+<tr>
+<td width="50%">
 
-| Проект | Описание |
-|--------|----------|
-| [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой |
-| [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением |
-| [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой *(в разработке)*
+#### 📰 [News](https://github.com/meekieD/News)
+Современный агрегатор новостей с **offline-first** архитектурой
 
-### 🛠️ Технологический стек
+**Стек:** Jetpack Compose, Material Design 3, Room, Retrofit, Hilt, Coil
 
-**Android Development:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-7A1FA2?style=for-the-badge&logo=square&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
+</td>
+<td width="50%">
 
-**Архитектура и паттерны:**  
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-4285F4?style=for-the-badge&logo=kotlin&logoColor=white)
+#### 📝 [Notes](https://github.com/meekieD/Notes)
+Минималистичное приложение для заметок с расширенным поиском
 
-**Backend и инструменты:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Стек:** Jetpack Compose, Material Design 3, Room, Hilt, Coil
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🎯 В настоящее время
-- 🔭 Создаю production-ready Android приложения
-- 🌱 Осваиваю Jetpack Compose и современные архитектурные подходы
-- 💼 Ищу позицию Android-разработчика в продуктовой компании
-- 📚 Изучаю: Multi-module architecture, Performance optimization, UI/UX best practices
+#### ✅ [Привыкай-ка!](https://github.com/meekieD/Habit-ify)
+Трекер привычек с **многомодульной архитектурой** *(в разработке)*
+
+**Стек:** Jetpack Compose, Material Design 3, Room, Hilt, Coil
+
+</td>
+<td width="50%">
+
+#### 🎯 Больше проектов
+Загляните в [мои репозитории](https://github.com/meekieD?tab=repositories)!
+
+</td>
+</tr>
+</table>
 
 ---
 
-**⭐️ Feel free to check out my repositories and leave a star if you find something interesting!**  
-**⭐️ Заходите в мои репозитории и ставьте звезду, если проект показался интересным!**
+## 🛠️ Технологический стек
+
+### Мобильная разработка
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+
+**Основное:** Jetpack Compose, Material Design 3, Kotlin Coroutines & Flow  
+**Архитектура:** MVVM, Clean Architecture, Multi-module  
+**DI и данные:** Hilt, Room, Retrofit, Coil
+
+### Backend и DevOps
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+
+**Фреймворки:** Spring Boot  
+**Инструменты:** GitHub Actions, REST APIs
+
+<div align="center">
+
+![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+<div align="center">
+
+### 💬 Рассматриваю предложения!
+
+**В активном поиске работы на должность Android-разработчика**  
+Буду рад пообщаться!
+
+<a href="https://t.me/meekie"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+<a href="mailto:mihaildusov@yandex.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Email"></a>
+
+⭐️ **Если мои проекты показались интересными, оставьте звезду!** ⭐️
+
+</div>
