@@ -14,19 +14,23 @@
 
 <a id="english-version"></a>
 
+<div align="center">
+  
 ## 🚀 About Me
+
+</div>
 
 Backend Developer with **3 years of enterprise experience**, now specializing in **Android development** with modern tech stack. I combine deep backend expertise in scalable systems and API design with cutting-edge Android development skills to build robust, user-centric mobile applications.
 
-### 📱 Projects
+<div align="center">
 
+### 📱 Projects
+  
 | Project | Description |
 |---------|-------------|
 | 📰 [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture |
 | 📝 [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning |
 | ✅ [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture *(in development)*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +54,8 @@ Backend Developer with **3 years of enterprise experience**, now specializing in
 </div>
 
 <div align="center">
+
+</div>
 
 ---
 
@@ -80,9 +86,15 @@ Feel free to reach out!
 
 </div>
 
+<div align="center">
+  
 ## 🚀 Обо мне
 
+</div>
+
 Backend-разработчик с **3-летним опытом** работы в коммерческих проектах, сейчас специализируюсь на **Android-разработке** с использованием современного стека технологий. Объединяю глубокую экспертизу в построении масштабируемых систем и проектировании API с передовыми навыками Android-разработки для создания надежных мобильных приложений.
+
+<div align="center">
 
 ### 📱 Мои проекты
 
@@ -115,6 +127,8 @@ Backend-разработчик с **3-летним опытом** работы �
 </div>
 
 <div align="center">
+
+</div>
 
 ---
 
