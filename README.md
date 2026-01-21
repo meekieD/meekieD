@@ -18,7 +18,7 @@
 
 </div>
 
-Backend Developer with **3 years of enterprise experience**, now specializing in **Android development** with modern tech stack. I combine deep backend expertise in scalable systems and API design with cutting-edge Android development skills to build robust, user-centric mobile applications.
+Backend Developer with 3 years of enterprise experience, now specializing in Android development with modern tech stack. I combine deep backend expertise in scalable systems and API design with cutting-edge Android development skills to build robust, user-centric mobile applications.
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Backend Developer with **3 years of enterprise experience**, now specializing in
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
 
 **Frameworks:** Spring Boot  
-**Tools:** GitHub Actions • REST APIs
+**Tools:** GitHub Actions, REST APIs
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Feel free to reach out!
 
 </div>
 
-Backend-разработчик с **3-летним опытом** работы в коммерческих проектах, сейчас специализируюсь на **Android-разработке** с использованием современного стека технологий. Объединяю глубокую экспертизу в построении масштабируемых систем и проектировании API с передовыми навыками Android-разработки для создания надежных мобильных приложений.
+Backend-разработчик с 3-летним опытом коммерческой разработки, сейчас специализируюсь на Android с использованием современного стека технологий. Объединяю глубокую экспертизу в построении масштабируемых систем и проектировании API с передовыми навыками Android-разработки для создания надежных мобильных приложений.
 
 <div align="center">
 
