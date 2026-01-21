@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <a id="english-version"></a>
 
 <div align="center">
@@ -57,9 +55,7 @@ Backend Developer with **3 years of enterprise experience**, now specializing in
 
 </div>
 
----
-
-### 💬 Open to offers!
+## 💬 Open to offers!
 
 **Actively looking for Android Developer positions!**  
 Feel free to reach out!
@@ -103,7 +99,6 @@ Backend-разработчик с **3-летним опытом** работы �
 | 📰 [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой |
 | 📝 [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением |
 | ✅ [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой *(в разработке)*
----
 
 ## 🛠️ Технологический стек
 
@@ -130,9 +125,7 @@ Backend-разработчик с **3-летним опытом** работы �
 
 </div>
 
----
-
-### 💬 Рассматриваю предложения!
+## 💬 Рассматриваю предложения!
 
 **В активном поиске работы на должность Android-разработчика**  
 Буду рад пообщаться!
