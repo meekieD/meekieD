@@ -60,8 +60,9 @@ Backend Developer with 3 years of enterprise experience, now specializing in And
 **Actively looking for Android Developer positions!**  
 Feel free to reach out!
 
-<a href="https://t.me/meekie"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
-<a href="mailto:mihaildusov@yandex.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Email"></a>
+📱 Telegram: [@meekie](https://t.me/meekie)
+
+📧 Email: [mihaildusov@yandex.ru](mailto:mihaildusov@yandex.ru)
 
 ⭐️ **If you find my projects interesting, consider leaving a star!** ⭐️
 
@@ -77,9 +78,8 @@ Feel free to reach out!
 # 👋 Привет, я Михаил
 ### Android-разработчик | Backend-инженер
 
-📱 Telegram: [@meekie](https://t.me/meekie)
-
-📧 Email: [mihaildusov@yandex.ru](mailto:mihaildusov@yandex.ru)
+<a href="https://t.me/meekie"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+<a href="mailto:mihaildusov@yandex.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Email"></a>
 
 </div>
 
