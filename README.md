@@ -20,42 +20,11 @@ Backend Developer with **3 years of enterprise experience**, now specializing in
 
 ### 📱 Projects
 
-<table>
-<tr>
-<td width="50%">
-
-#### 📰 [News](https://github.com/meekieD/News)
-Modern news aggregator with **offline-first** architecture
-
-**Tech:** Jetpack Compose • Room • Retrofit • Hilt • MVVM
-
-</td>
-<td width="50%">
-
-#### 📝 [Notes](https://github.com/meekieD/Notes)
-Minimalist note-taking app with advanced search
-
-**Tech:** Compose • Room • Material Design 3
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ✅ [Habit-ify](https://github.com/meekieD/Habit-ify)
-Habit tracker with **multi-module architecture** *(in development)*
-
-**Tech:** Multi-module • Clean Architecture • Compose
-
-</td>
-<td width="50%">
-
-#### 🎯 More Projects
-Check out [my repositories](https://github.com/meekieD?tab=repositories) for more!
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 📰 [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture |
+| 📝 [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning |
+| ✅ [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture *(in development)*
 
 ---
 
@@ -81,6 +50,8 @@ Check out [my repositories](https://github.com/meekieD?tab=repositories) for mor
 </div>
 
 <div align="center">
+
+---
 
 ### 💬 Open to offers!
 
@@ -115,43 +86,11 @@ Backend-разработчик с **3-летним опытом** работы �
 
 ### 📱 Мои проекты
 
-<table>
-<tr>
-<td width="50%">
-
-#### 📰 [News](https://github.com/meekieD/News)
-Современный агрегатор новостей с **offline-first** архитектурой
-
-**Стек:** Jetpack Compose, Material Design 3, Room, Retrofit, Hilt, Coil
-
-</td>
-<td width="50%">
-
-#### 📝 [Notes](https://github.com/meekieD/Notes)
-Минималистичное приложение для заметок с расширенным поиском
-
-**Стек:** Jetpack Compose, Material Design 3, Room, Hilt, Coil
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ✅ [Привыкай-ка!](https://github.com/meekieD/Habit-ify)
-Трекер привычек с **многомодульной архитектурой** *(в разработке)*
-
-**Стек:** Jetpack Compose, Material Design 3, Room, Hilt, Coil
-
-</td>
-<td width="50%">
-
-#### 🎯 Больше проектов
-Загляните в [мои репозитории](https://github.com/meekieD?tab=repositories)!
-
-</td>
-</tr>
-</table>
-
+| Проект | Описание |
+|--------|----------|
+| 📰 [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой |
+| 📝 [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением |
+| ✅ [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой *(в разработке)*
 ---
 
 ## 🛠️ Технологический стек
@@ -176,6 +115,8 @@ Backend-разработчик с **3-летним опытом** работы �
 </div>
 
 <div align="center">
+
+---
 
 ### 💬 Рассматриваю предложения!
 
