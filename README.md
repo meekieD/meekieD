@@ -28,7 +28,7 @@ Backend Developer with 3 years of enterprise experience, now specializing in And
 |---------|-------------|
 | 📰 [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture |
 | 📝 [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning |
-| ✅ [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture *(in development)*
+| ✅ [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture
 
 ## 🛠️ Tech Stack
 
@@ -99,7 +99,7 @@ Backend-разработчик с 3-летним опытом коммерчес
 |--------|----------|
 | 📰 [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой |
 | 📝 [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением |
-| ✅ [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой *(в разработке)*
+| ✅ [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой
 
 ## 🛠️ Технологический стек
 
