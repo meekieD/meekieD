@@ -26,9 +26,9 @@ Backend Developer with 3 years of enterprise experience, now specializing in And
   
 | Project | Description |
 |---------|-------------|
+| ✅ [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture
 | 📰 [**News**](https://github.com/meekieD/News) | Modern news aggregator with offline-first architecture |
 | 📝 [**Notes**](https://github.com/meekieD/Notes) | Minimalist note-taking app with search and pinning |
-| ✅ [**Habit-ify**](https://github.com/meekieD/Habit-ify) | Habit tracker with multi-module architecture
 
 ## 🛠️ Tech Stack
 
@@ -44,12 +44,6 @@ Backend Developer with 3 years of enterprise experience, now specializing in And
 
 **Frameworks:** Spring Boot  
 **Tools:** GitHub Actions, REST APIs
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-</div>
 
 <div align="center">
 
@@ -97,9 +91,9 @@ Backend-разработчик с 3-летним опытом коммерчес
 
 | Проект | Описание |
 |--------|----------|
+| ✅ [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой
 | 📰 [**News**](https://github.com/meekieD/News) | Современный агрегатор новостей с offline-first архитектурой |
 | 📝 [**Notes**](https://github.com/meekieD/Notes) | Минималистичное приложение для заметок с поиском и закреплением |
-| ✅ [**Привыкай-ка!**](https://github.com/meekieD/Habit-ify) | Трекер привычек с многомодульной архитектурой
 
 ## 🛠️ Технологический стек
 
@@ -115,12 +109,6 @@ Backend-разработчик с 3-летним опытом коммерчес
 
 **Фреймворки:** Spring Boot  
 **Инструменты:** GitHub Actions, REST APIs
-
-<div align="center">
-
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=meekieD&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-</div>
 
 <div align="center">
 
